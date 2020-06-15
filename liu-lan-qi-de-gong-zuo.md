@@ -1,16 +1,34 @@
-# 浏览器的工作
+# 01前端面试-前置知识
 
 ## 🌼 涉及面试题
 
 ### 1.主流浏览器是哪些？以及他们的内核分别是什么？
 
+chrome - blink
+
+EI - Trident （windows10发布以后，将其内容浏览器命名维Edge 内核EdgeHTML）
+
+safari - webkit
+
+firefox - Gecko\[‘gekəʊ\]
+
+Opera - Presto \(\[‘prestəʊ\]\)
+
 ### 2.从 URL 输入到页面展现背后发生了什么事？
+
+
 
 ### 3.一次完整的 HTTP 事务是怎么一个过程？
 
+
+
 ### 4.浏览器是如何渲染页面的？
 
+
+
 ### 5.刷新页面，js 请求一般会有哪些地方有缓存处理？
+
+
 
 ## 🌼  相关概念及简述
 
@@ -24,7 +42,9 @@ DNS\(Domain Name System\)域名系统 记录域名和IP地址相互映射的关�
 
 ## 🌼  大致流程概述
 
-[https://juejin.im/post/5c7646f26fb9a049fd108380](https://juejin.im/post/5c7646f26fb9a049fd108380)
+{% embed url="https://juejin.im/post/5c7646f26fb9a049fd108380" %}
+
+
 
 
 
